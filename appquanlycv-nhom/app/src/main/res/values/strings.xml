@@ -1,0 +1,25 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">ReMindme</string>
+
+    <!-- Notification channel -->
+    <string name="reminder_channel_name">Nhắc việc của mèo</string>
+    <string name="reminder_channel_description">Thông báo dễ thương giúp bạn không quên việc quan trọng</string>
+    <string name="reminder_generic_message">Đến giờ hoàn thành việc rồi đó!</string>
+
+    <!-- Auth copy -->
+    <string name="auth_title">Đăng nhập để đồng bộ nhắc việc</string>
+    <string name="auth_subtitle">Kết nối tài khoản để lưu nhiệm vụ an toàn trên nhiều thiết bị.</string>
+    <string name="auth_google">Tiếp tục với Google</string>
+    <string name="auth_loading">Đang xác thực…</string>
+    <string name="auth_cancelled">Đăng nhập đã bị huỷ.</string>
+    <string name="auth_generic_error">Không thể đăng nhập, vui lòng thử lại.</string>
+    <!-- đăng xuất -->
+    <string name="logout">Đăng xuất</string>
+    <string name="logout_confirm_title">Đăng xuất?</string>
+    <string name="logout_confirm_msg">Bạn sẽ cần đăng nhập lại để đồng bộ nhắc việc.</string>
+    <string name="logout_yes">Đăng xuất</string>
+    <string name="logout_no">Huỷ</string>
+    <string name="default_web_client_id">140091958818-l3br9bn4vkbijfvd6rjbur0c4penmict.apps.googleusercontent.com</string>
+
+</resources>
